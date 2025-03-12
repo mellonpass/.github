@@ -19,7 +19,7 @@ A Django-powered API server for serving and storing information securely. All st
 
 ### MellonPass Web
 
-The front-end application is built using Svelte (TypeScript), having a security feature for safely storing decrypted data and users' encrpytion/decryption keys.
+The front-end application is built on top of SvelteKit using TypeScript and has a security feature for safely storing decrypted data and users' encryption/decryption keys.
 
 ## Usage
 
