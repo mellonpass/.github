@@ -1,6 +1,6 @@
 # About MellonPass
 
-A password manager written in Python (Django) and Svelte (Typescript). This project is open source, so everybody can do security reviews, propose improvements, and fork MellonPass.
+A password manager written in Python (Django) and Typescript (SvelteKit). This project is open source, so everybody can do security reviews, propose improvements, and fork MellonPass.
 
 ## Key features
 
