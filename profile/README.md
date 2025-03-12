@@ -1,16 +1,6 @@
 # About MellonPass
 
-A password manager built using Python and Svelte (Typescript). This project is open source, so everybody can do security reviews, propose improvements, and fork MellonPass.
-
-# About MellonPass Repos
-
-## MellonPass Server
-
-A Django-powered API server for serving and storing information securely. All stored data are encrypted before reaching the server from the client application, It also provides database-level encryption at rest to protect data.
-
-## MellonPass Web
-
-The front-end application is built using Svelte (TypeScript), having a security feature for safely storing decrypted data and users' encrpytion/decryption keys.
+A password manager written in Python (Django) and Svelte (Typescript). This project is open source, so everybody can do security reviews, propose improvements, and fork MellonPass.
 
 ## Key features
 
@@ -20,6 +10,16 @@ The front-end application is built using Svelte (TypeScript), having a security 
 - **DB Column-level encryption**: Each database column that stores cipher texts is encrypted using Fernet (AES-CBC 128-bit, HMAC 256-bit, IV generated from a cryptographic secure random number generator).
 - **Supported Vault Items**: Logins and Secure notes only for now. I will add more types in the future.
 - **Organization Vaults**: These will be supported in the future!
+
+## MellonPass Repos
+
+### MellonPass Server
+
+A Django-powered API server for serving and storing information securely. All stored data are encrypted before reaching the server from the client application, It also provides database-level encryption at rest to protect data.
+
+### MellonPass Web
+
+The front-end application is built using Svelte (TypeScript), having a security feature for safely storing decrypted data and users' encrpytion/decryption keys.
 
 ## Usage
 
