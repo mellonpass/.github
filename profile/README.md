@@ -2,7 +2,7 @@
 
 This project is open source, so everybody can do security reviews, propose improvements, and fork MellonPass.
 
-Visit Wiki page here for more information: https://github.com/mellonpass/.github/wiki
+Visit the [Wiki page](https://github.com/mellonpass/.github/wiki) here for more information.
 
 ## Features
 
