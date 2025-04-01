@@ -2,6 +2,8 @@
 
 This project is open source, so everybody can do security reviews, propose improvements, and fork MellonPass.
 
+Visit Wiki page here for more information: https://github.com/mellonpass/.github/wiki
+
 ## Features
 
 - **Personal Vault** - Logins and Secure notes. (Will support more vault types).
