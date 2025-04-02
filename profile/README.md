@@ -6,8 +6,8 @@ Visit the [Wiki page](https://github.com/mellonpass/.github/wiki) here for more 
 
 ## Features
 
-- **Personal Vault** - Logins and Secure notes. (Will support more vault types).
-- **Organization Vaults**: These will be supported in the future!
+- **Personal Vault** - Logins and Secure notes. _(Will support more vault types)_
+- **Organization Vaults** - _(These will be supported in the future!)_
 
 ## MellonPass Repos
 
