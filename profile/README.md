@@ -14,10 +14,10 @@ Visit the [Wiki page](https://github.com/mellonpass/.github/wiki) here for more 
 - **Self-Hosting Friendly**: Designed with open source principles, you can deploy MellonPass on your own infrastructure.
 - **Cross-Platform**: Accessible through modern web browsers built with SvelteKit.
 - **Secure Authentication & Verification**: Supports email verification and strong authentication flows.
-- **Open Source & Auditable**: Transparent source code on GitHub invites security reviews and community contributions.
+- **Open Source & Auditable**: Transparent source code, invites security reviews and community contributions.
 
 ## Get in touch
 
-If you have questions or improvements in mind, don't hesitate to reach out to me at eikz.dev@protonmail.com.
+If you have questions or improvements in mind, please don't hesitate to contact me at eikz.dev@protonmail.com.
 
 Reported bugs are highly appreciated. Please [create an issue]([url](https://github.com/mellonpass/.github/issues)) 🙏
